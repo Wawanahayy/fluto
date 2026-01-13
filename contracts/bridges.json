@@ -1,0 +1,7 @@
+{
+  "sepolia": {
+    "cofheBridge": "0xdF2aCCdC66E9A6b3bC27bbf83842C54eAA2C8C49",
+    "fhevmBridge": "0xB8DBD4BFd2741E45E3Ae6BE76a4b8014E409e7ca",
+    "GATEWAYCONTRACT": "0x33347831500f1e73f0cccbb95c9f86b94d7b1123"
+  }
+}
